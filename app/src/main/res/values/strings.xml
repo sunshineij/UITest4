@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UITest4</string>
+    <string-array name="items">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+</resources>
